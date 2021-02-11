@@ -1,0 +1,305 @@
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+     .header_slider {
+    min-height: 500px;
+}
+header {
+    padding-bottom: 15px;
+}
+    /* menu start */
+    .menu {
+    margin-left: 15px;
+}
+    .menu ul li a {
+    margin: 0px 0px !important;
+    
+}
+
+    /* menu end */
+        /* menu end */
+     /* banner start */
+    .banner_content {
+    margin-top: 20px;
+}
+.banner_content h1 {
+    margin-bottom: 18px;
+    font-size: 16px;
+}
+.banner_content p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    word-spacing: 0px !important;
+        line-height: 24px;
+}
+.cb_btn {
+    margin-left: 0px;
+}
+/* banner end */
+ /* department start */
+ .dp_content {
+    margin-top: 25px;
+}
+.dp_content h1 {
+    font-size: 32px;
+}
+    .cus_card{
+        margin-bottom: 30px;
+        
+    }
+    .s_last{
+        margin-bottom: 0;
+    }
+    .st_content h1 {
+    font-size: 24px;
+        margin-top: 15px;
+}
+.st_content p {
+    font-size: 15px;
+}
+    /* department end */
+    .department {
+    padding-bottom: 15px;
+}
+    .around {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+/* contact */
+.contact1, .contact2, .contact3, .contact4 {
+    margin-bottom: 30px;
+}
+.con4s{
+    margin-bottom: 0;
+}
+/* contact */
+    
+
+ }
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* header */
+
+    .header_slider {
+    min-height: 600px;
+    padding-bottom: 135px;
+}
+header {
+    padding-bottom: 15px;
+}
+    /* menu start */
+    .menu {
+    margin-left: 15px;
+}
+    .menu ul li a {
+    margin: 0px 0px !important;
+    
+}
+
+    /* menu end */
+     /* banner start */
+    .banner_content {
+    margin-top: 20px;
+}
+.banner_content h1 {
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+.banner_content p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    word-spacing: 0px !important;
+}
+.cb_btn {
+    margin-left: 0px;
+}
+    /* banner end */
+     /* department start */
+     .dp_content h1 {
+    font-size: 32px;
+}
+    .cus_card{
+        margin-bottom: 30px;
+    }
+    .st_content h1 {
+     margin-top: 20px;
+    font-size: 30px;
+    
+}
+    /* department end */
+    .department {
+    padding-bottom: 20px;
+}
+    .around {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+ /* contact */
+    .contact3, .contact4 {
+    margin-top: 25px;
+}
+    /* contact */
+
+       
+
+}
+    
+
+  
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header */
+
+    .header_slider {
+    min-height: 725px;
+}
+header {
+    padding-bottom: 15px;
+}
+    /* menu start */
+    .menu {
+    margin-left: 15px;
+}
+    .menu ul li a {
+    margin: 0px 0px !important;
+    
+}
+
+    /* menu end */
+    /* header end */
+    /* banner start */
+    .banner_content {
+    margin-top: 40px;
+}
+.banner_content h1 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.banner_content p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    word-spacing: 0px !important;
+}
+.cb_btn {
+    margin-left: 0px;
+}
+    /* banner end */
+    /* department start */
+    .cus_card{
+        margin-bottom: 30px;
+    }
+    .circle img {
+    margin-bottom: 20px;
+}
+    /* department end */
+    /* around */
+    .department {
+    padding-bottom: 30px;
+}
+    .around {
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+    /* around */
+    /* contact */
+    .contact3, .contact4 {
+    margin-top: 30px;
+}
+    /* contact */
+	
+}
+
+
+ 
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* header slider */
+    .header_slider {
+    min-height: 750px;
+}
+ /* header slider */
+header {
+    padding-bottom: 25px;
+}
+/* header */
+    /* menu start */
+    .menu ul li a {
+    margin: 0 10px !important;
+  
+}
+    /* menu end */
+    .banner_content {
+    margin-top: 50px;
+}
+    .banner_content h1 {
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.banner_content p {
+    margin-bottom: 30px;
+    font-size: 16px;
+    word-spacing: 0 !important;
+}
+    /* banner  */
+    /* around */
+    .department {
+    padding-bottom: 40px;
+}
+    .around {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+    /* around */
+
+    
+        .cus_contact1 li i {
+    padding: 4px;
+    font-size: 18px;
+
+    }
+    .contact2 p a, .contact3 p a {
+    font-size: 12px;
+}
+.contact4 p {
+    font-size: 12px;
+}
+	
+ }
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .header_slider {
+    min-height: 800px;
+}
+/* header and slider */
+
+.banner_content {
+    margin-top: 50px;
+}
+.banner_content h1 {
+    margin-bottom: 25px;
+    font-size: 40px;
+}
+.banner_content p {
+    margin-bottom: 35px;
+}
+/* banner */
+
+
+ }
+
+
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1899.98px)  {
+
+
+ }
+ /* custom device  large dekstops more than 1900px*/
+ @media (min-width: 1900px)  {
+ 	
+
+
+ }
